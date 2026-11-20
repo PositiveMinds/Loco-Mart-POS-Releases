@@ -1,0 +1,8 @@
+{
+    "version":  "1.6.0",
+    "versionCode":  13,
+    "apkUrl":  "https://github.com/PositiveMinds/Loco-Mart-POS-Releases/releases/download/sms-v1.6.0/Loco-Mart-SMS_1.6.0.apk",
+    "notes":  "First Loco Mart SMS release. New four-tab design (Home, Activity, Connect, Settings) in Loco Mart colours, with light and dark mode. Only MTN MoMo payment alerts from MTNMobMoney are kept and forwarded; other texts stay on the phone. Check for updates now uses this releases page, and downloads are checked before installing.",
+    "pub_date":  "2026-11-20T14:54:03Z",
+    "sha256":  "c29e0e372ead786320a5cbd703c0af5cde9e8a278f7392c51f6adafa1a7db382"
+}
