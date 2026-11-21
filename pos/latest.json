@@ -1,0 +1,8 @@
+{
+    "version":  "0.2.0",
+    "versionCode":  2,
+    "apkUrl":  "https://github.com/PositiveMinds/Loco-Mart-POS-Releases/releases/download/pos-v0.2.0/Loco-Mart-POS_0.2.0.apk",
+    "notes":  "Phones paired with the desktop now sync away from the shop over mobile data (turn it on in desktop Settings \u003e Phones). Managers can see the whole shop\u0027s sales and reports on their phone. A phone that started on its own can now connect to a desktop and keep its sales, products and customers. Stock, products and staff from the desktop show on paired phones.",
+    "pub_date":  "2026-11-21T07:24:24Z",
+    "sha256":  "64658c4ae482fa50523bec52b14f97f690a18f46669faa0a7b265ec6610bfb85"
+}
