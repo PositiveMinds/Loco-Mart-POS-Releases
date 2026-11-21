@@ -1,8 +1,8 @@
 {
-    "version":  "0.3.0",
-    "versionCode":  3,
-    "apkUrl":  "https://github.com/PositiveMinds/Loco-Mart-POS-Releases/releases/download/pos-v0.3.0/Loco-Mart-POS_0.3.0.apk",
-    "notes":  "Tablet layouts: a navigation rail, products and cart side by side, payment in the cart pane, and list and detail side by side for stock and customers. Products as a list or a grid. Back up and restore the phone\u0027s data (More \u003e Backup and restore). Prints on Sunmi and Urovo terminals\u0027 built-in printers, plus more printer models. Keyboard shortcuts for tablets with a keyboard. New splash screen.",
-    "pub_date":  "2026-11-21T11:57:56Z",
-    "sha256":  "9f7a2a279922793df0ae54d393fa0f6ae008cfba97c1d8186f3e4a4945cdc36b"
+    "version":  "0.3.1",
+    "versionCode":  4,
+    "apkUrl":  "https://github.com/PositiveMinds/Loco-Mart-POS-Releases/releases/download/pos-v0.3.1/Loco-Mart-POS_0.3.1.apk",
+    "notes":  "A new shop is guided through setup: after the owner account, enter the shop\u0027s name, address, phone and MoMoPay code for receipts. Home shows a Get started checklist (shop details, first product, first shift, receipt printer) until it\u0027s done.",
+    "pub_date":  "2026-11-21T14:02:34Z",
+    "sha256":  "ce979395c6c4cb451661ffa2497e24c6a1e87a1c8e29ab5e8b409e21ff0438f2"
 }
