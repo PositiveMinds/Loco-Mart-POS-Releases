@@ -1,8 +1,8 @@
 {
-    "version":  "0.3.3",
-    "versionCode":  6,
-    "apkUrl":  "https://github.com/PositiveMinds/Loco-Mart-POS-Releases/releases/download/pos-v0.3.3/Loco-Mart-POS_0.3.3.apk",
-    "notes":  "Dashboard and side menu, product categories, barcode labels (print or save as PDF), debt due dates with SMS and email reminders, and loyalty points.",
-    "pub_date":  "2026-11-21T22:19:02Z",
-    "sha256":  "3f06277244926c6b908383df28fac012fe112672f6f23c6c714e4d8216497ecf"
+    "version":  "0.3.2",
+    "versionCode":  5,
+    "apkUrl":  "https://github.com/PositiveMinds/Loco-Mart-POS-Releases/releases/download/pos-v0.3.2/Loco-Mart-POS_0.3.2.apk",
+    "notes":  "Add product photos from your gallery, not only the camera.",
+    "pub_date":  "2026-11-21T16:51:37Z",
+    "sha256":  "94e3a0b7fc211a84754267f3426a68fdba306cabe16270b9b8e12a2fe36bba53"
 }
