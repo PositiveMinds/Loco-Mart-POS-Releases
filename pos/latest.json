@@ -1,8 +1,8 @@
 {
-    "version":  "0.3.1",
-    "versionCode":  4,
-    "apkUrl":  "https://github.com/PositiveMinds/Loco-Mart-POS-Releases/releases/download/pos-v0.3.1/Loco-Mart-POS_0.3.1.apk",
-    "notes":  "A new shop is guided through setup: after the owner account, enter the shop\u0027s name, address, phone and MoMoPay code for receipts. Home shows a Get started checklist (shop details, first product, first shift, receipt printer) until it\u0027s done.",
-    "pub_date":  "2026-11-21T14:02:34Z",
-    "sha256":  "ce979395c6c4cb451661ffa2497e24c6a1e87a1c8e29ab5e8b409e21ff0438f2"
+    "version":  "0.3.2",
+    "versionCode":  5,
+    "apkUrl":  "https://github.com/PositiveMinds/Loco-Mart-POS-Releases/releases/download/pos-v0.3.2/Loco-Mart-POS_0.3.2.apk",
+    "notes":  "Add product photos from your gallery, not only the camera.",
+    "pub_date":  "2026-11-21T16:51:37Z",
+    "sha256":  "94e3a0b7fc211a84754267f3426a68fdba306cabe16270b9b8e12a2fe36bba53"
 }
