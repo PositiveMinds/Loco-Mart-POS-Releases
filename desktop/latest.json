@@ -1,0 +1,11 @@
+{
+    "version":  "1.0.0",
+    "notes":  "Syncs debt due dates and loyalty points with Loco Mart POS phones (0.3.4 and later), and sends automatic payment reminders by SMS and email. Back up the database before installing: this version adds due dates to sales.",
+    "pub_date":  "2026-11-21T23:37:20Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaEtzRUt3SXpsRDI5R3h5NHBWb2JST3Jvb0Y3Yno4WGtSMXd6MjU1eVRYMWFNZG9veWJCVDlJM3pZWlA4TUtUdlg2cGhPK3V4OEE4SDBjTWk0UEJEbjJ4QTRRamlEV2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjk1NTQ0CWZpbGU6TG9jbyBNYXJ0IFBPU18xLjAuMF94NjQtc2V0dXAuZXhlCi9VZ2Naa0I4akVta0lmK2NCZHBuaHFTeU5KT2o4TzBibFNxajdERkw0V0E3SStyOHVsZ3BXbThuL2tTOHllOVZSS3F1d2VMVm55VE1TOXhrTFNldEJ3PT0K",
+                                             "url":  "https://github.com/PositiveMinds/Loco-Mart-POS-Releases/releases/download/desktop-v1.0.0/Loco-Mart-POS-Setup_1.0.0.exe"
+                                         }
+                  }
+}
