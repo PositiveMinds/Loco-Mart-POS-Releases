@@ -1,8 +1,8 @@
 {
-    "version":  "0.3.2",
-    "versionCode":  5,
-    "apkUrl":  "https://github.com/PositiveMinds/Loco-Mart-POS-Releases/releases/download/pos-v0.3.2/Loco-Mart-POS_0.3.2.apk",
-    "notes":  "Add product photos from your gallery, not only the camera.",
-    "pub_date":  "2026-11-21T16:51:37Z",
-    "sha256":  "94e3a0b7fc211a84754267f3426a68fdba306cabe16270b9b8e12a2fe36bba53"
+    "version":  "0.3.4",
+    "versionCode":  7,
+    "apkUrl":  "https://github.com/PositiveMinds/Loco-Mart-POS-Releases/releases/download/pos-v0.3.4/Loco-Mart-POS_0.3.4.apk",
+    "notes":  "Fixes the app closing on open in 0.3.3. Includes the dashboard and side menu, categories, barcode labels, debt reminders and loyalty points.",
+    "pub_date":  "2026-11-21T23:21:48Z",
+    "sha256":  "fbfe511cce775d78d61d472f714549b0e846231827b494c48493d70d84065267"
 }
