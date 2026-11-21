@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.0",
-    "versionCode":  2,
-    "apkUrl":  "https://github.com/PositiveMinds/Loco-Mart-POS-Releases/releases/download/pos-v0.2.0/Loco-Mart-POS_0.2.0.apk",
-    "notes":  "Phones paired with the desktop now sync away from the shop over mobile data (turn it on in desktop Settings \u003e Phones). Managers can see the whole shop\u0027s sales and reports on their phone. A phone that started on its own can now connect to a desktop and keep its sales, products and customers. Stock, products and staff from the desktop show on paired phones.",
-    "pub_date":  "2026-11-21T07:24:24Z",
-    "sha256":  "64658c4ae482fa50523bec52b14f97f690a18f46669faa0a7b265ec6610bfb85"
+    "version":  "0.3.0",
+    "versionCode":  3,
+    "apkUrl":  "https://github.com/PositiveMinds/Loco-Mart-POS-Releases/releases/download/pos-v0.3.0/Loco-Mart-POS_0.3.0.apk",
+    "notes":  "Tablet layouts: a navigation rail, products and cart side by side, payment in the cart pane, and list and detail side by side for stock and customers. Products as a list or a grid. Back up and restore the phone\u0027s data (More \u003e Backup and restore). Prints on Sunmi and Urovo terminals\u0027 built-in printers, plus more printer models. Keyboard shortcuts for tablets with a keyboard. New splash screen.",
+    "pub_date":  "2026-11-21T11:57:56Z",
+    "sha256":  "9f7a2a279922793df0ae54d393fa0f6ae008cfba97c1d8186f3e4a4945cdc36b"
 }
