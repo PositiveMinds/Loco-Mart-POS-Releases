@@ -1,8 +1,8 @@
 {
-    "version":  "0.3.5",
-    "versionCode":  8,
-    "apkUrl":  "https://github.com/PositiveMinds/Loco-Mart-POS-Releases/releases/download/pos-v0.3.5/Loco-Mart-POS_0.3.5.apk",
-    "notes":  "The new Loco Mart dashboard in Analytics. Emails now carry the Loco Mart logo (receipts, reminders, low stock, reset codes, test email) with a plain-text copy. Gmail app passwords pasted with spaces now work.",
-    "pub_date":  "2026-11-23T10:17:09Z",
-    "sha256":  "534776f3f58985d9ec8b1d2945cfa7f05ace72071a804531bee3b8ffa87e83ba"
+    "version":  "0.3.6",
+    "versionCode":  9,
+    "apkUrl":  "https://github.com/PositiveMinds/Loco-Mart-POS-Releases/releases/download/pos-v0.3.6/Loco-Mart-POS_0.3.6.apk",
+    "notes":  "Email from the phone works again: test emails and payment reminders send from the shop\u0027s Gmail, with the Loco Mart logo. Clearer messages when sending fails.",
+    "pub_date":  "2026-11-23T12:57:34Z",
+    "sha256":  "34c3450ed42e2b85fac0c5f400b9276bfaf37ccd0440586ed0b0f3a0adaa4fc0"
 }
