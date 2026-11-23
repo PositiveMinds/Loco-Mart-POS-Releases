@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.1",
-    "notes":  "Fixes 1.0.0 starting without its database. Syncs debt due dates and loyalty points with Loco Mart POS phones (0.3.4 and later), and sends automatic payment reminders by SMS and email. Back up the database before installing: this version adds due dates to sales.",
-    "pub_date":  "2026-11-22T00:05:46Z",
+    "version":  "1.0.2",
+    "notes":  "Sidebar icons show again. The new 8-section dashboard. Emails now carry the Loco Mart logo (receipts, reminders, low stock, reset codes, test email) with a plain-text copy. Gmail app passwords pasted with spaces now work. The login screen no longer repeats the tagline, and email never falls back to a shared EmailJS account.",
+    "pub_date":  "2026-11-23T09:31:50Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaEtzRUt3SXpsRCs5ZVdlbTdzZkRxZ1pndHV1WlVSWHFqdnpnYWpLaTZ1MzR0SDd2bThvbUkxcy9FYUdZc1dBdjMwM0dPSG51aXdDZlpCYldhMjRvWWp2bXdYRytLUUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzA1MzE4CWZpbGU6TG9jbyBNYXJ0IFBPU18xLjAuMV94NjQtc2V0dXAuZXhlClBLWGhiSzBxRmw1Wkt0K1puZ2R4V25yNVI3QThERWlPLytvMWNRc3NPbTJkRXJCZVdqNkg1T3BBMkRsNTRwVndGQmh4U2xOd0M0RE1IRThjNUtzSENnPT0K",
-                                             "url":  "https://github.com/PositiveMinds/Loco-Mart-POS-Releases/releases/download/desktop-v1.0.1/Loco-Mart-POS-Setup_1.0.1.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaEtzRUt3SXpsRCtzOWwybWVSSHJWOW9JbmthU3hFN1lXb25IQ0I2M2FEKzN1MXdSKzhBZi9oQmRxdUNWUHRENjFmSDRkc1hIWHZKMS9OdE5WUkYwcTlLKzUvVWUrMkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDI2Mjc3CWZpbGU6TG9jbyBNYXJ0IFBPU18xLjAuMl94NjQtc2V0dXAuZXhlCitnNmZDM0RYMzZEL253UHdZbjZxSkZ6VmpmRHlLZ2dRSzloSU9SMUF3eWw2OWoweEJHUnB4TURZL3lEMW52Q1JvaXdjalpJUS9mUDRlU2w1Z0QxcUJBPT0K",
+                                             "url":  "https://github.com/PositiveMinds/Loco-Mart-POS-Releases/releases/download/desktop-v1.0.2/Loco-Mart-POS-Setup_1.0.2.exe"
                                          }
                   }
 }
