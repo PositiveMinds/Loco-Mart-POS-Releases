@@ -1,8 +1,8 @@
 {
-    "version":  "0.3.4",
-    "versionCode":  7,
-    "apkUrl":  "https://github.com/PositiveMinds/Loco-Mart-POS-Releases/releases/download/pos-v0.3.4/Loco-Mart-POS_0.3.4.apk",
-    "notes":  "Fixes the app closing on open in 0.3.3. Includes the dashboard and side menu, categories, barcode labels, debt reminders and loyalty points.",
-    "pub_date":  "2026-11-21T23:21:48Z",
-    "sha256":  "fbfe511cce775d78d61d472f714549b0e846231827b494c48493d70d84065267"
+    "version":  "0.3.5",
+    "versionCode":  8,
+    "apkUrl":  "https://github.com/PositiveMinds/Loco-Mart-POS-Releases/releases/download/pos-v0.3.5/Loco-Mart-POS_0.3.5.apk",
+    "notes":  "The new Loco Mart dashboard in Analytics. Emails now carry the Loco Mart logo (receipts, reminders, low stock, reset codes, test email) with a plain-text copy. Gmail app passwords pasted with spaces now work.",
+    "pub_date":  "2026-11-23T10:17:09Z",
+    "sha256":  "534776f3f58985d9ec8b1d2945cfa7f05ace72071a804531bee3b8ffa87e83ba"
 }
