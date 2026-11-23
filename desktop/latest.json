@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.2",
-    "notes":  "Sidebar icons show again. The new 8-section dashboard. Emails now carry the Loco Mart logo (receipts, reminders, low stock, reset codes, test email) with a plain-text copy. Gmail app passwords pasted with spaces now work. The login screen no longer repeats the tagline, and email never falls back to a shared EmailJS account.",
-    "pub_date":  "2026-11-23T09:31:50Z",
+    "version":  "1.0.3",
+    "notes":  "Fixes updating: the installer no longer stops with \u0027Error opening file for writing\u0027 (the app\u0027s database is stopped cleanly first). Includes everything in 1.0.2: sidebar icons, the new dashboard, Loco Mart logo in emails.",
+    "pub_date":  "2026-11-23T11:13:02Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaEtzRUt3SXpsRCtzOWwybWVSSHJWOW9JbmthU3hFN1lXb25IQ0I2M2FEKzN1MXdSKzhBZi9oQmRxdUNWUHRENjFmSDRkc1hIWHZKMS9OdE5WUkYwcTlLKzUvVWUrMkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDI2Mjc3CWZpbGU6TG9jbyBNYXJ0IFBPU18xLjAuMl94NjQtc2V0dXAuZXhlCitnNmZDM0RYMzZEL253UHdZbjZxSkZ6VmpmRHlLZ2dRSzloSU9SMUF3eWw2OWoweEJHUnB4TURZL3lEMW52Q1JvaXdjalpJUS9mUDRlU2w1Z0QxcUJBPT0K",
-                                             "url":  "https://github.com/PositiveMinds/Loco-Mart-POS-Releases/releases/download/desktop-v1.0.2/Loco-Mart-POS-Setup_1.0.2.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaEtzRUt3SXpsRHlqQmd0Rzc0UE0wRkFvUnNYazhybmw5QU41bEdoS2lGaS9kWW9uQk5QckxBNENlWHRUTjhKYVhuK3ZRMEFZSVhlT0M4WEJMNkVaQjVCUnV0bjY1L1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDMyMDY2CWZpbGU6TG9jbyBNYXJ0IFBPU18xLjAuM194NjQtc2V0dXAuZXhlCjhIYVhqMjgxL2JVbUphTVl6UnBnMU5IZ20weU9kWW5WK2ZsMW1NUC9MczBMQTQ1OHVxZjRMa1I1cUVHYkQ1UzhwZ0FvUU5RM1g1RnpnV0N5aUFxdkRnPT0K",
+                                             "url":  "https://github.com/PositiveMinds/Loco-Mart-POS-Releases/releases/download/desktop-v1.0.3/Loco-Mart-POS-Setup_1.0.3.exe"
                                          }
                   }
 }
